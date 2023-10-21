@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheVetApp</string>
+    <string name="title_activity_vet_firebase">VetFirebase</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_agregar">AgregarActivity</string>
+</resources>
